@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: bae91b9d1c281ac49a0f4b92b9742f5b
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: RuinA1_LOD0
+    100002: RuinA1_LOD1
+    100004: RuinA1_LOD2
+    100006: RuinA2_LOD0
+    100008: RuinA2_LOD1
+    100010: RuinA2_LOD2
+    100012: RuinB1_LOD0
+    100014: RuinB1_LOD1
+    100016: RuinB1_LOD2
+    100018: RuinB2_LOD0
+    100020: RuinB2_LOD1
+    100022: RuinB2_LOD2
+    100024: RuinB3_LOD0
+    100026: RuinB3_LOD1
+    100028: RuinB3_LOD2
+    100030: //RootNode
+    400000: RuinA1_LOD0
+    400002: RuinA1_LOD1
+    400004: RuinA1_LOD2
+    400006: RuinA2_LOD0
+    400008: RuinA2_LOD1
+    400010: RuinA2_LOD2
+    400012: RuinB1_LOD0
+    400014: RuinB1_LOD1
+    400016: RuinB1_LOD2
+    400018: RuinB2_LOD0
+    400020: RuinB2_LOD1
+    400022: RuinB2_LOD2
+    400024: RuinB3_LOD0
+    400026: RuinB3_LOD1
+    400028: RuinB3_LOD2
+    400030: //RootNode
+    2300000: RuinA1_LOD0
+    2300002: RuinA1_LOD1
+    2300004: RuinA1_LOD2
+    2300006: RuinA2_LOD0
+    2300008: RuinA2_LOD1
+    2300010: RuinA2_LOD2
+    2300012: RuinB1_LOD0
+    2300014: RuinB1_LOD1
+    2300016: RuinB1_LOD2
+    2300018: RuinB2_LOD0
+    2300020: RuinB2_LOD1
+    2300022: RuinB2_LOD2
+    2300024: RuinB3_LOD0
+    2300026: RuinB3_LOD1
+    2300028: RuinB3_LOD2
+    3300000: RuinA1_LOD0
+    3300002: RuinA1_LOD1
+    3300004: RuinA1_LOD2
+    3300006: RuinA2_LOD0
+    3300008: RuinA2_LOD1
+    3300010: RuinA2_LOD2
+    3300012: RuinB1_LOD0
+    3300014: RuinB1_LOD1
+    3300016: RuinB1_LOD2
+    3300018: RuinB2_LOD0
+    3300020: RuinB2_LOD1
+    3300022: RuinB2_LOD2
+    3300024: RuinB3_LOD0
+    3300026: RuinB3_LOD1
+    3300028: RuinB3_LOD2
+    4300000: RuinB1_LOD2
+    4300002: RuinB2_LOD2
+    4300004: RuinB3_LOD2
+    4300006: RuinB3_LOD1
+    4300008: RuinB2_LOD1
+    4300010: RuinB1_LOD1
+    4300012: RuinA2_LOD2
+    4300014: RuinA2_LOD1
+    4300016: RuinA1_LOD2
+    4300018: RuinA1_LOD1
+    4300020: RuinA2_LOD0
+    4300022: RuinA1_LOD0
+    4300024: RuinB1_LOD0
+    4300026: RuinB2_LOD0
+    4300028: RuinB3_LOD0
+    9500000: //RootNode
+    11100000: //RootNode
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - .25
+    - .125
+    - .00999999978
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

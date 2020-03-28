@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 6678e3d05e7ed4242a10124c67dab969
+ShaderImporter:
+  defaultTextures:
+  - _Diffuse: {fileID: 2800000, guid: 18239aaac0c11c94fbd41c513b42876c, type: 3}
+  - _Normals: {fileID: 2800000, guid: dc0f23193f0d5604bb437fff8649e042, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
